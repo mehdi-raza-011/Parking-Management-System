@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ParkingLotSystem
+comment1.params=
+comment1.target=ParkingLotSystem()
+comment2.params=
+comment2.target=ParkingLotSystem\ getInstance()
+comment3.params=scheme
+comment3.target=void\ setFineScheme(FineScheme)
+comment4.params=plate\ type\ spotId
+comment4.target=Ticket\ parkVehicle(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=plate\ payment
+comment5.target=Receipt\ processExit(java.lang.String,\ Payment)
+comment6.params=
+comment6.target=FineRepository\ getFineRepository()
+numComments=7

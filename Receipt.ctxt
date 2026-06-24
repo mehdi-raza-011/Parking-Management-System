@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=ticketId\ parkingFee\ fine\ previousFine\ total
+comment1.target=Receipt(java.lang.String,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ParkingLot
+comment1.params=
+comment1.target=ParkingLot()
+comment10.params=
+comment10.target=double\ getTotalRevenue()
+comment11.params=amount
+comment11.target=void\ addRevenue(double)
+comment2.params=
+comment2.target=ParkingLot\ getInstance()
+comment3.params=
+comment3.target=void\ seedData()
+comment4.params=
+comment4.target=java.util.List\ getAllSpots()
+comment5.params=spotId
+comment5.target=ParkingSpot\ findSpotById(java.lang.String)
+comment6.params=vehicleType
+comment6.target=java.util.List\ getAvailableSpots(java.lang.String)
+comment7.params=spotType\ vehicleType
+comment7.target=boolean\ isSpotSuitable(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=java.util.List\ getParkedVehicles()
+comment9.params=
+comment9.target=double\ getOccupancyRate()
+numComments=12

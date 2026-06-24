@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CustomerGUI
+comment1.params=
+comment1.target=CustomerGUI()
+comment2.params=
+comment2.target=javax.swing.JPanel\ createEntryPanel()
+comment3.params=
+comment3.target=javax.swing.JPanel\ createPaymentPanel()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ReportsPanel
+comment1.params=
+comment1.target=ReportsPanel()
+comment2.params=
+comment2.target=void\ showOccupancy()
+comment3.params=
+comment3.target=void\ showRevenue()
+comment4.params=
+comment4.target=void\ showVehicles()
+comment5.params=
+comment5.target=void\ showFines()
+numComments=6

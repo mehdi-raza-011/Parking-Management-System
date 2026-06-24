@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FineRepository
+comment1.params=plate\ amount
+comment1.target=void\ addFine(java.lang.String,\ double)
+comment2.params=plate
+comment2.target=double\ getUnpaidFine(java.lang.String)
+comment3.params=plate
+comment3.target=void\ clearFine(java.lang.String)
+comment4.params=
+comment4.target=java.util.Map\ getAllFines()
+numComments=5

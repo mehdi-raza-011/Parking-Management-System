@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FeeCalculator
+comment1.params=entryTime
+comment1.target=long\ calculateHours(java.time.LocalDateTime)
+comment2.params=hours\ rate
+comment2.target=double\ calculateParkingFee(long,\ double)
+numComments=3

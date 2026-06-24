@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fine
+comment1.params=plateNumber\ amount
+comment1.target=Fine(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getPlateNumber()
+comment3.params=
+comment3.target=double\ getAmount()
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FixedFineScheme
+comment1.params=hoursParked\ isReservedViolation
+comment1.target=double\ calculateFine(long,\ boolean)
+numComments=2
